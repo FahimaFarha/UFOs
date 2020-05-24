@@ -1,9 +1,10 @@
 body {
 
-    color: #f7f7f7;
+    color: #a594e5;
   }
   .jumbotron {
     background-image: url("../images/nasa.jpg");
     background-size: 100% 100%;
     text-align: center;
+    color: #a594e5;
   }  
