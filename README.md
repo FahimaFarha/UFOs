@@ -10,7 +10,7 @@ We had to create a webpage that would filter through UFO sightings and display i
 ## Challenge Summary
 We were able to create a HTML page that displayed the data regarding UFO sightings in a concise table. We were asked to create an event that would allow a user to filter through five options: date, city, state, country, and shape (im_1). 
 
-<img src="PNG_Files/im_2.png" width="300">
+<img src="PNG_Files/im_1.png" width="300">
 
 For the Challenge, we were asked to implement three or more Bootstrap elements in our HTML webpage. I was able to change the color of the text in the wrapper, body and jumbotron. In addition, I was able to change the font of the jumbotron to bold. Finally, I added a calendar icon to the date filter of the table. These modifications can be seen in the screenshot below (im_2).
 
